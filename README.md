@@ -1,2 +1,2 @@
 # Front-end-Studying
-Studying HTML, CSS and JavaScript
+:computer: Studying HTML, CSS and JavaScript
